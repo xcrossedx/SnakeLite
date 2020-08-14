@@ -1,0 +1,6 @@
+C:\Users\sebsk\source\repos\SnakeLite\SnakeLite\bin\Debug\SnakeLite.exe.config
+C:\Users\sebsk\source\repos\SnakeLite\SnakeLite\bin\Debug\SnakeLite.exe
+C:\Users\sebsk\source\repos\SnakeLite\SnakeLite\bin\Debug\SnakeLite.pdb
+C:\Users\sebsk\source\repos\SnakeLite\SnakeLite\obj\Debug\SnakeLite.csprojAssemblyReference.cache
+C:\Users\sebsk\source\repos\SnakeLite\SnakeLite\obj\Debug\SnakeLite.exe
+C:\Users\sebsk\source\repos\SnakeLite\SnakeLite\obj\Debug\SnakeLite.pdb
